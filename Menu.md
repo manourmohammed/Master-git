@@ -2,7 +2,7 @@
 
 ## [Setting Up](setting-up.md)
 
-## Inspection
+## [Inspection](Inspection.md)
 
 ## Saving changes
 
