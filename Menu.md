@@ -1,6 +1,6 @@
 # Master Git - Menu
 
-## Setting Up
+## [Setting Up](setting-up.md)
 
 ## Inspection
 
