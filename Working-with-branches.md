@@ -8,13 +8,13 @@
 >
 > pour créer une branche sans y basculer immédiatement
 >
-> ![](bv.png)
+> ![](bv.PNG)
 
 > **git branch -d branch-name**
 >
 > pour supprimer une branch locale
 >
-> ![](dl.png)
+> ![](dl.PNG)
 
 ## `checkout`
 
@@ -24,13 +24,13 @@
 >
 > ela crée une nouvelle branche nommée **name-branch** et faire un switch a la branch
 >
-> ![](ch.png)
+> ![](ch.PNG)
 
 > `git checkout existing-branch`
 >
 > pour Basculer vers une branche existante
 >
-> ![](bur.png)
+> ![](bur.PNG)
 
 ## `git-merge`
 
@@ -38,7 +38,7 @@
 >
 > pour fusionner les modifications d'une autre branche dans votre branche actuelle :
 >
-> ![:](mr.png)
+> ![](mr.PNG)
 
 ## `git-fetch`
 
@@ -46,4 +46,4 @@
 >
 > pour récupérer des informations sur les branches distantes :
 >
-> ![](fee.png)
+> ![](fee.PNG)
