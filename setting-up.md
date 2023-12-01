@@ -16,11 +16,11 @@ Les commandes Git pour configurer votre **nom d'utilisateur** et votre **adresse
 
 > `` 'git config --global user.name`  ``
 >
-> ![name](name.PNG)
+> ![name](name.png)
 
 > `` _**'git config --global user.email`**_ ``
 >
-> ![email](email.png)
+> ![email](email.PNG)
 
 ---
 
@@ -40,13 +40,13 @@ utilisez la commande suivante pour ajouter tous les fichiers de votre projet à 
 >
 > Ajouter des fichiers modifiés et supprimés (à l'exclusion des fichiers non suivis)
 >
-> ![](u.png)
+> ![](u.PNG)
 
 > `git add --all`
 >
 > Ajouter des répertoires de manière récursive
 >
-> ![](all.png)
+> ![](all.PNG)
 
 ---
 
@@ -60,16 +60,16 @@ utilisez la commande suivante pour ajouter tous les fichiers de votre projet à 
 >
 > **m** option vous permet d'ajouter le message directement depuis la ligne de commande :
 >
-> ![](m.png)
+> ![](m.PNG)
 
 > `**git commit --amend**`
 >
 > pour  apporter des modifications au dernier commit (par exemple, pour ajouter un fichier que vous avez oublié), vous pouvez utiliser  **\--amend** ou **\--ammend -m** pour modifier le message
 >
-> ![](ammend.png)
+> ![](ammend.PNG)
 
 > `**git commit --amend--no-edit**`
 >
 > La commande **\`git commit --amend --no-edit\`** est utilisée pour modifier le dernier commit sans changer le message de commit
 >
-> ![](edit.png)
+> ![](edit.PNG)
