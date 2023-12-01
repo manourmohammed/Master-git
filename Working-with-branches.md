@@ -24,7 +24,7 @@
 >
 > ela crée une nouvelle branche nommée **name-branch** et faire un switch a la branch
 >
-> ![](ch.PNG)
+> ![](ch.png)
 
 > `git checkout existing-branch`
 >
