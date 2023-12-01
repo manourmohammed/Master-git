@@ -6,7 +6,7 @@
 
 ## [Saving changes](Savingchanges.md)
 
-## Working with branches
+## [Working with branches](working-with-branches)
 
 ## Undoing changes
 
