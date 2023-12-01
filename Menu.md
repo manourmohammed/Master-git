@@ -10,7 +10,7 @@
 ## [Working with branches](Working-with-branches.md)
 
 ## [Working with branches](working-with-branches)
-<<<<<<< HEAD
+
 
 ## [Working with branches](working-with-branches)
 
